@@ -2,3 +2,10 @@ Public Class Demo{
 public void Firstdemo(){
 System.debug('Hai there');
 }
+public void doSum(){
+integer a=10;
+integer b=15;
+integer res=a+b;
+System.debug(res);
+}
+}
